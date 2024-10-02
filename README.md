@@ -36,3 +36,11 @@ This project creates a data pipeline to extract, transform, and load marketing d
 * Add more data sources (e.g., customer feedback, sales data).
 * Improve data quality checks and error handling.
 * Use a more robust database (e.g., PostgreSQL, MySQL).
+
+## requirements.txt
+
+* pandas
+* sqlalchemy
+* schedule
+* google-auth
+* google-api-python-client
